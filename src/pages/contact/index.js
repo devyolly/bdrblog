@@ -91,6 +91,13 @@ export default class Index extends React.Component {
                     Send
                   </button>
                 </div>
+
+                <div className="field">
+                  <button className="button is-link" type="reset">
+                    Clear
+                  </button>
+                </div> 
+
               </form>
             </div>
           </div>
