@@ -41,7 +41,7 @@ export default class Index extends React.Component {
             <div className="content">
               <h1>Contact</h1>
               <form
-                name="contact"
+                name="accounttracking"
                 method="post"
                 action="/contact/thanks/"
                 data-netlify="true"
@@ -49,7 +49,7 @@ export default class Index extends React.Component {
                 onSubmit={this.handleSubmit}
               >
                 {/* The `form-name` hidden field is required to support form submissions without JavaScript */}
-                <input type="hidden" name="form-name" value="contact" />
+                <input type="hidden" name="form-name" value="accounttracking" />
                 <div hidden>
                   <label>
                     Don’t fill this out:{' '}
@@ -58,7 +58,7 @@ export default class Index extends React.Component {
                 </div>
                 <div className="field">
                   <label className="label" htmlFor={'name'}>
-                    Your name
+                    AccountID
                   </label>
                   <div className="control">
                     <input
@@ -71,21 +71,7 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
-                <div className="field">
-                  <label className="label" htmlFor={'email'}>
-                    Email
-                  </label>
-                  <div className="control">
-                    <input
-                      className="input"
-                      type={'email'}
-                      name={'email'}
-                      onChange={this.handleChange}
-                      id={'email'}
-                      required={true}
-                    />
-                  </div>
-                </div>
+          
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
                     Message
