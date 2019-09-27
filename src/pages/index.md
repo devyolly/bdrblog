@@ -6,7 +6,11 @@ heading: Great team at a great company
 subheading: Engaging the future JAMstack enthusiasts
 mainpitch:
   title: Why Kaldi
-
+  description: >
+    Kaldi is the coffee store for everyone who believes that great coffee
+    shouldn't just tsasdaste good, it should do good too. We source all of our beans
+    directly from ale sustainable farmers and make sure part of the
+    profits are reinvested in their communities.
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
   java’s origin and support the farmers that grew it. We take coffee production,
