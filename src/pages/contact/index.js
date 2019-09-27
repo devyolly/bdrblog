@@ -43,7 +43,7 @@ export default class Index extends React.Component {
               <form
                 name="accounttracking"
                 method="post"
-                action="/contact/thanks/"
+                action="/contact/"
                 data-netlify="true"
                 data-netlify-honeypot="bot-field"
                 onSubmit={this.handleSubmit}
@@ -71,7 +71,7 @@ export default class Index extends React.Component {
                     />
                   </div>
                 </div>
-          
+            
                 <div className="field">
                   <label className="label" htmlFor={'message'}>
                     Message
