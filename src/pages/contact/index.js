@@ -77,8 +77,9 @@ export default class Index extends React.Component {
                     Message
                   </label>
                   <div className="control">
-                    <textarea
-                      className="textarea"
+                    <input
+                      className="input"
+                      type={'text'}
                       name={'message'}
                       onChange={this.handleChange}
                       id={'message'}
