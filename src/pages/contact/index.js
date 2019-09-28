@@ -1,5 +1,5 @@
 import React from 'react'
-import { navigate } from 'gatsby-link'
+import { navigate } from './node_modules/gatsby-link'
 import Layout from '../../components/Layout'
 
 function encode(data) {
