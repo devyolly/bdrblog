@@ -16,10 +16,10 @@ export default class Index extends React.Component {
               </p>
               <ul>
                 <li>
-                  <Link to="/contact">Basic contact form</Link>
+                  <Link to="/accountidtracking">Basic Accountid tracking form</Link>
                 </li>
                 <li>
-                  <Link to="/contact/file-upload/">Form with file upload</Link>
+                  <Link to="/accountidtracking/file-upload/">Form with file upload</Link>
                 </li>
               </ul>
 
