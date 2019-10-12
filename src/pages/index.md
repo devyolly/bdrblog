@@ -5,17 +5,11 @@ image: /img/chemex.jpg
 heading: Great team at a great company
 subheading: Engaging the future JAMstack enthusiasts
 mainpitch:
-  title: Why Kaldi
+  title: Why BDR team?
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just tsasdaste good, it should do good too. We source all of our beans
-    directly from ale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+    We're the first point of contact that helps users go from curious JAMstack users to long time customers. Our goals are to generate new business pipeline for the sales team, and to hone our professional skills to be a talent pipeline for Netlify. 
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Team officailly started in Feb. of 2019. 
 intro:
   blurbs:
     - image: /img/coffee.png
