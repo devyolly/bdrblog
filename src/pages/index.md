@@ -9,7 +9,7 @@ mainpitch:
   description: >
     We're the first point of contact that helps users go from curious JAMstack users to long time customers. Our goals are to generate new business pipeline for the sales team, and to hone our professional skills to be a talent pipeline for Netlify. 
 description: >-
-  Team officailly started in Feb. of 2019. 
+  Team officially started in Feb. of 2019. 
 intro:
   blurbs:
     - image: /img/coffee.png
